@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2B2280E900000578-3186881-Smart_Nicolas_Cage_was_joined_by_his_actor_son_Weston_Coppola_Ca-m-2_1438857698697.jpg</filename>
+	<path>/Users/Cactus/ObjectDetection-master/images/2B2280E900000578-3186881-Smart_Nicolas_Cage_was_joined_by_his_actor_son_Weston_Coppola_Ca-m-2_1438857698697.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>1141</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nicolas Cage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>26</ymin>
+			<xmax>392</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

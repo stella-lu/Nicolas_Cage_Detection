@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>b6bac329a7294e82bd6bb94962fbf7aa.jpg</filename>
+	<path>C:\Users\micah\Desktop\ObjectDetection\images\b6bac329a7294e82bd6bb94962fbf7aa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>975</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hotdog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>246</ymin>
+			<xmax>628</xmax>
+			<ymax>940</ymax>
+		</bndbox>
+	</object>
+</annotation>

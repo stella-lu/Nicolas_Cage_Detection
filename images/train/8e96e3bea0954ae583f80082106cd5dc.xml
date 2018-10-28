@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>8e96e3bea0954ae583f80082106cd5dc.jpg</filename>
+	<path>/Users/Cactus/ObjectDetection-master/images/8e96e3bea0954ae583f80082106cd5dc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>563</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nicolas Cage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>114</ymin>
+			<xmax>613</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+</annotation>

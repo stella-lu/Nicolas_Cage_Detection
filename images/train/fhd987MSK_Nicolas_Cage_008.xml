@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>fhd987MSK_Nicolas_Cage_008.jpg</filename>
+	<path>/Users/Cactus/ObjectDetection-master/images/fhd987MSK_Nicolas_Cage_008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>704</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nicolas Cage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>13</ymin>
+			<xmax>626</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>

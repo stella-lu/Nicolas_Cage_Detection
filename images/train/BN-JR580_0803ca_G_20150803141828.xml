@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>BN-JR580_0803ca_G_20150803141828.jpg</filename>
+	<path>/Users/Cactus/ObjectDetection-master/images/BN-JR580_0803ca_G_20150803141828.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>553</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nicolas Cage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>15</ymin>
+			<xmax>402</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>
