@@ -1,7 +1,7 @@
 # ObjectDetection
 Object detection project for Codeology Fall 2018
 
-This was a 4-week project led by Micah Harrison to gather data (in this case, images of Nicolas Cage) and use Tensorflow to train a model to detect Nicolas Cage. Jupyter Notebook is used to run the model and show the results and a live webcam stream can be used to detect Nicolas Cage in real time.
+This was a 4-week project led by [Micah Harrison](https://github.com/MicahHarrison) to gather data (in this case, images of Nicolas Cage) and use Tensorflow to train a model to detect Nicolas Cage. Jupyter Notebook is used to run the model and show the results and a live webcam stream can be used to detect Nicolas Cage in real time.
 
 For this project, we used a python script to quickly gather 100 - 200 images of our subject from the internet. We then cleaned our data/images and used labelImg to manually label our images and produce accompanying xml files. These xml files contain information about the images' dimensions etc., however the Tensorflow API doesn't use xml files. The xml files were converted to csv files and then to TF records for the Tensorflow API to use. Afterwards, we built our model off of a blank slate object-detection model and began training to minimize loss.
 
