@@ -54,4 +54,4 @@ Example of the live webcam version, with me holding a homemade Nicolas Cage mask
 
 ![webcam](/example_screenshots/nicolas_cage_webcam_83_percent.png)
 
-In comparison, using the live webcam, it believes that I'm Nicolas Cage at 85%, however when testing it out on my friends, the certainty ranged from 60% to 88%. Not bad for only 90 training images.
+In comparison, using the live webcam the model believes that I'm Nicolas Cage at 85%, however when testing it out on my friends, the certainty ranged from 60% to 88%. Not bad for only 90 training images.
