@@ -9,7 +9,7 @@ For this project, we used a python script to quickly gather 100 - 200 images of 
 My model has only been trained on 90 images, but it's still not bad! The trained model can be found at:
 Nicolas_Cage_Detection/models/research/object_detection/Nicolas
 
-## SETUP
+## Setup
 
 	- pip install tensorflow
 	- pip install pillow
@@ -39,15 +39,19 @@ under the "Detection" section in the jupyter notebook to reflect the range of im
 ## Example Screenshots
 
 93% Certainty:
+
 ![93% Certainty](/example_screenshots/nicolas_cage_93_percent.png)
 
 91% Certainty:
+
 ![91% Certainty](/example_screenshots/nicolas_cage_91_percent.png)
 
 90% Certainty:
+
 ![90% Certainty](/example_screenshots/nicolas_cage_90_percent.png)
 
 Example of the live webcam version, with me holding a homemade Nicolas Cage mask (with 83% Certainty):
+
 ![webcam](/example_screenshots/nicolas_cage_webcam_83_percent.png)
 
 In comparison, using the live webcam, it believes that I'm Nicolas Cage at 85%, however when testing it out on my friends, the certainty ranged from 60% to 88%. Not bad for only 90 training images.
